@@ -7,3 +7,5 @@ I now know how to create a version control git from Rstudio and connect it to re
 
 I will add another line on the Github website.
 I will then pull the repository from web to Rstudio.
+
+haha Let me just type here and push again to the github remote repository.
